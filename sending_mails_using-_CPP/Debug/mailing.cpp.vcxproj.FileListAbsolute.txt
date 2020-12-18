@@ -1,0 +1,2 @@
+G:\1. Mass Mailing System\1. code working\sending_mails_using-_CPP\Debug\mailing.cpp.exe
+G:\1. Mass Mailing System\1. code working\sending_mails_using-_CPP\Debug\mailing.cpp.pdb
