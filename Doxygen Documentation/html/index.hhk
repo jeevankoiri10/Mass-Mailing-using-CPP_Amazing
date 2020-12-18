@@ -1,0 +1,213 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<HTML><HEAD></HEAD><BODY>
+<OBJECT type="text/site properties">
+<param name="FrameName" value="right">
+</OBJECT>
+<UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_attachments.html"><param name="Name" value="Attachments"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_attachments.html"><param name="Name" value="Attachments"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_attachments.html#ae60faa881bae0fb7435cb8dc4163b8d0"><param name="Name" value="getSameAttachToAll"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_attachments.html"><param name="Name" value="Attachments"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_attachments.html#a79c0d17419b4fa45335d71c7cb00621d"><param name="Name" value="no_of_attachments"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_attachments.html"><param name="Name" value="Attachments"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_attachments.html#a475d53f2c343b9014bc872ed57019653"><param name="Name" value="your_attachments"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="mailing_8cpp.html#a635629c4c0ef52a78fff1ce61d19e50b"><param name="Name" value="BODY_LOCATION"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_body.html"><param name="Name" value="Body"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_body.html"><param name="Name" value="Body"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_body.html#a2c3d981feb7aee5223b5f7959fc9ba86"><param name="Name" value="ch"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_body.html"><param name="Name" value="Body"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_body.html#a87d0fbcafbc5ef1cba3f08662b748001"><param name="Name" value="choice_body"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_body.html"><param name="Name" value="Body"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_body.html#a2f6ac34ee8069d854268eca80cfa9364"><param name="Name" value="showbody"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_body.html"><param name="Name" value="Body"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_body.html#ae6721f18592ec7457fa85a15d30590be"><param name="Name" value="your_body"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="mailing_8cpp.html#ad89dff68c18f256995d8b52b2846ce4f"><param name="Name" value="ConnectDirectSSL"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="mailing_8cpp.html#a179eb922dd28b19f30e5f6d428ccadfe"><param name="Name" value="ConnectNormal"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="mailing_8cpp.html#aadac01e9cd3f9038154d670af68a59f7"><param name="Name" value="ConnectSSLAuto"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="mailing_8cpp.html#a18a998e050d792bf5165e4dc05b08bd4"><param name="Name" value="ConnectSTARTTLS"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="mailing_8cpp.html#a5c1e61b4a21334a961d744194990cab7"><param name="Name" value="ConnectTryTLS"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_front_page.html"><param name="Name" value="FrontPage"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_front_page.html"><param name="Name" value="FrontPage"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_front_page.html#a9ba99f96cbdb36f6d0b54161fa44408f"><param name="Name" value="showfrontpage"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_log_in.html"><param name="Name" value="LogIn"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_log_in.html"><param name="Name" value="LogIn"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_log_in.html#accca0fc1900c673ca2d7eabe56c088db"><param name="Name" value="getaddress"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_log_in.html"><param name="Name" value="LogIn"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_log_in.html#a0ee7be648bbfef48fe67f5ce004092ee"><param name="Name" value="getpass"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_log_in.html"><param name="Name" value="LogIn"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_log_in.html#af9e05f614e38f1346dbc31a09041c5f7"><param name="Name" value="showheader"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_log_in.html"><param name="Name" value="LogIn"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_log_in.html#a5ed640564204cbb40751a11d8a9ccc56"><param name="Name" value="your_address"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_log_in.html"><param name="Name" value="LogIn"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_log_in.html#a9cf7361be46c8b59722c8df02135e7a7"><param name="Name" value="your_password"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_mails.html"><param name="Name" value="Mails"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_mails.html"><param name="Name" value="Mails"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_mails.html#a37351d53ab9aaea5996d4547de6af338"><param name="Name" value="choice_body"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_mails.html"><param name="Name" value="Mails"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_mails.html#a9598c3e921f7e0a87d54ebda764424a5"><param name="Name" value="getbody"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_mails.html"><param name="Name" value="Mails"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_mails.html#acb0dd1ade8db79749c51cde7c96525a9"><param name="Name" value="mailSenderWithSameAttachmentToAll"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_mails.html"><param name="Name" value="Mails"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_mails.html#a39f2980f98f04a4725849346bc33186c"><param name="Name" value="send_to_each_email"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_recipients.html"><param name="Name" value="Recipients"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_recipients.html"><param name="Name" value="Recipients"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_recipients.html#a07da4bda0f577a40144670ec63301c3f"><param name="Name" value="consoleOrfile"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_recipients.html"><param name="Name" value="Recipients"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_recipients.html#ad2ea26f0ce31db058be734b0a47614e7"><param name="Name" value="getrecipient"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_recipients.html"><param name="Name" value="Recipients"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_recipients.html#a57f1ba0679e6695485cab0fcfdc4a21c"><param name="Name" value="list_choice"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_recipients.html"><param name="Name" value="Recipients"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_recipients.html#a8fa1887be590284451773b5a8136496c"><param name="Name" value="no_of_recipients"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_recipients.html"><param name="Name" value="Recipients"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_recipients.html#aa351dce7ef9f606297b595d7986c4ab4"><param name="Name" value="recipients"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_recipients.html"><param name="Name" value="Recipients"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_recipients.html#a6435745ce1544e6ae91413d0475bb468"><param name="Name" value="showrecipient"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_recipients.html"><param name="Name" value="Recipients"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_recipients.html#a234aad63fd4db54fd94073b9ae2943ef"><param name="Name" value="showrecipientVar"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_subject.html"><param name="Name" value="Subject"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_subject.html"><param name="Name" value="Subject"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_subject.html#a7590d20769e7517a0140ee1c59990212"><param name="Name" value="ch"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_subject.html"><param name="Name" value="Subject"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_subject.html#a576285ecbe2b34413711000860866381"><param name="Name" value="getsubject"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_subject.html"><param name="Name" value="Subject"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_subject.html#a0f7248930334e37de5854d2c4d091243"><param name="Name" value="showsubject"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_subject.html"><param name="Name" value="Subject"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_subject.html#af0d9ad3667677650ee0656cab4a3884e"><param name="Name" value="subject"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_subject.html"><param name="Name" value="Subject"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_subject.html#ac4763dbb38690d9f6d89863b94449773"><param name="Name" value="your_subject"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_body.html#a2c3d981feb7aee5223b5f7959fc9ba86"><param name="Name" value="ch"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_body.html#a2c3d981feb7aee5223b5f7959fc9ba86"><param name="Name" value="Body"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_subject.html#a7590d20769e7517a0140ee1c59990212"><param name="Name" value="ch"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_subject.html#a7590d20769e7517a0140ee1c59990212"><param name="Name" value="Subject"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_body.html#a87d0fbcafbc5ef1cba3f08662b748001"><param name="Name" value="choice_body"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_body.html#a87d0fbcafbc5ef1cba3f08662b748001"><param name="Name" value="Body"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_mails.html#a37351d53ab9aaea5996d4547de6af338"><param name="Name" value="choice_body"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_mails.html#a37351d53ab9aaea5996d4547de6af338"><param name="Name" value="Mails"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_recipients.html#a07da4bda0f577a40144670ec63301c3f"><param name="Name" value="consoleOrfile"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_attachments.html#ae60faa881bae0fb7435cb8dc4163b8d0"><param name="Name" value="getSameAttachToAll"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_log_in.html#accca0fc1900c673ca2d7eabe56c088db"><param name="Name" value="getaddress"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_mails.html#a9598c3e921f7e0a87d54ebda764424a5"><param name="Name" value="getbody"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_log_in.html#a0ee7be648bbfef48fe67f5ce004092ee"><param name="Name" value="getpass"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_recipients.html#ad2ea26f0ce31db058be734b0a47614e7"><param name="Name" value="getrecipient"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_subject.html#a576285ecbe2b34413711000860866381"><param name="Name" value="getsubject"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_recipients.html#a57f1ba0679e6695485cab0fcfdc4a21c"><param name="Name" value="list_choice"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_mails.html#acb0dd1ade8db79749c51cde7c96525a9"><param name="Name" value="mailSenderWithSameAttachmentToAll"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="mailing_8cpp.html"><param name="Name" value="mailing.cpp"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="mailing_8cpp.html#a635629c4c0ef52a78fff1ce61d19e50b"><param name="Name" value="BODY_LOCATION"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="mailing_8cpp.html"><param name="Name" value="mailing.cpp"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="mailing_8cpp.html#ad89dff68c18f256995d8b52b2846ce4f"><param name="Name" value="ConnectDirectSSL"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="mailing_8cpp.html"><param name="Name" value="mailing.cpp"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="mailing_8cpp.html#a179eb922dd28b19f30e5f6d428ccadfe"><param name="Name" value="ConnectNormal"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="mailing_8cpp.html"><param name="Name" value="mailing.cpp"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="mailing_8cpp.html#aadac01e9cd3f9038154d670af68a59f7"><param name="Name" value="ConnectSSLAuto"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="mailing_8cpp.html"><param name="Name" value="mailing.cpp"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="mailing_8cpp.html#a18a998e050d792bf5165e4dc05b08bd4"><param name="Name" value="ConnectSTARTTLS"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="mailing_8cpp.html"><param name="Name" value="mailing.cpp"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="mailing_8cpp.html#a5c1e61b4a21334a961d744194990cab7"><param name="Name" value="ConnectTryTLS"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="mailing_8cpp.html"><param name="Name" value="mailing.cpp"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="mailing_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4"><param name="Name" value="main"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="mailing_8cpp.html"><param name="Name" value="mailing.cpp"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="mailing_8cpp.html#a06ee80fbcb33fc8b7aa9c90bd2f1f371"><param name="Name" value="size_recipients"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="mailing_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4"><param name="Name" value="main"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_attachments.html#a79c0d17419b4fa45335d71c7cb00621d"><param name="Name" value="no_of_attachments"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_recipients.html#a8fa1887be590284451773b5a8136496c"><param name="Name" value="no_of_recipients"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_recipients.html#aa351dce7ef9f606297b595d7986c4ab4"><param name="Name" value="recipients"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_mails.html#a39f2980f98f04a4725849346bc33186c"><param name="Name" value="send_to_each_email"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_body.html#a2f6ac34ee8069d854268eca80cfa9364"><param name="Name" value="showbody"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_front_page.html#a9ba99f96cbdb36f6d0b54161fa44408f"><param name="Name" value="showfrontpage"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_log_in.html#af9e05f614e38f1346dbc31a09041c5f7"><param name="Name" value="showheader"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_recipients.html#a6435745ce1544e6ae91413d0475bb468"><param name="Name" value="showrecipient"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_recipients.html#a234aad63fd4db54fd94073b9ae2943ef"><param name="Name" value="showrecipientVar"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_subject.html#a0f7248930334e37de5854d2c4d091243"><param name="Name" value="showsubject"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="mailing_8cpp.html#a06ee80fbcb33fc8b7aa9c90bd2f1f371"><param name="Name" value="size_recipients"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_subject.html#af0d9ad3667677650ee0656cab4a3884e"><param name="Name" value="subject"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_log_in.html#a5ed640564204cbb40751a11d8a9ccc56"><param name="Name" value="your_address"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_attachments.html#a475d53f2c343b9014bc872ed57019653"><param name="Name" value="your_attachments"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_body.html#ae6721f18592ec7457fa85a15d30590be"><param name="Name" value="your_body"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_log_in.html#a9cf7361be46c8b59722c8df02135e7a7"><param name="Name" value="your_password"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_subject.html#ac4763dbb38690d9f6d89863b94449773"><param name="Name" value="your_subject"></OBJECT>
+</UL>
+</BODY>
+</HTML>

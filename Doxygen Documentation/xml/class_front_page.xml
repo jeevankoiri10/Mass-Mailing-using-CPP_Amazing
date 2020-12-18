@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.20" xml:lang="en-US">
+  <compounddef id="class_front_page" kind="class" language="C++" prot="public">
+    <compoundname>FrontPage</compoundname>
+    <derivedcompoundref refid="class_log_in" prot="public" virt="non-virtual">LogIn</derivedcompoundref>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="class_front_page_1a9ba99f96cbdb36f6d0b54161fa44408f" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void FrontPage::showfrontpage</definition>
+        <argsstring>()</argsstring>
+        <name>showfrontpage</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="G:/1. Mass Mailing System/1. code working/Mass Mailing using CPP_Amazing/sending_mails_using-_CPP/mailing.cpp" line="28" column="6" bodyfile="G:/1. Mass Mailing System/1. code working/Mass Mailing using CPP_Amazing/sending_mails_using-_CPP/mailing.cpp" bodystart="28" bodyend="47"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <inheritancegraph>
+      <node id="6">
+        <label>Attachments</label>
+        <link refid="class_attachments"/>
+        <childnode refid="5" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="2">
+        <label>LogIn</label>
+        <link refid="class_log_in"/>
+        <childnode refid="1" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="7">
+        <label>Mails</label>
+        <link refid="class_mails"/>
+        <childnode refid="6" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="3">
+        <label>Recipients</label>
+        <link refid="class_recipients"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="4">
+        <label>Subject</label>
+        <link refid="class_subject"/>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="5">
+        <label>Body</label>
+        <link refid="class_body"/>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="1">
+        <label>FrontPage</label>
+        <link refid="class_front_page"/>
+      </node>
+    </inheritancegraph>
+    <location file="G:/1. Mass Mailing System/1. code working/Mass Mailing using CPP_Amazing/sending_mails_using-_CPP/mailing.cpp" line="24" column="1" bodyfile="G:/1. Mass Mailing System/1. code working/Mass Mailing using CPP_Amazing/sending_mails_using-_CPP/mailing.cpp" bodystart="25" bodyend="48"/>
+    <listofallmembers>
+      <member refid="class_front_page_1a9ba99f96cbdb36f6d0b54161fa44408f" prot="public" virt="non-virtual"><scope>FrontPage</scope><name>showfrontpage</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

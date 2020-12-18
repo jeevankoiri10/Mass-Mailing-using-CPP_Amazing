@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.20" xml:lang="en-US">
+  <compounddef id="mailing_8cpp_8vcxproj_8_file_list_absolute_8txt" kind="file" language="C++">
+    <compoundname>mailing.cpp.vcxproj.FileListAbsolute.txt</compoundname>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <programlisting>
+<codeline lineno="1"><highlight class="normal">G:\1.<sp/>Mass<sp/>Mailing<sp/>System\1.<sp/>code<sp/>working\sending_mails_using-_CPP\Debug\mailing.cpp.exe</highlight></codeline>
+<codeline lineno="2"><highlight class="normal">G:\1.<sp/>Mass<sp/>Mailing<sp/>System\1.<sp/>code<sp/>working\sending_mails_using-_CPP\Debug\mailing.cpp.pdb</highlight></codeline>
+    </programlisting>
+    <location file="G:/1. Mass Mailing System/1. code working/Mass Mailing using CPP_Amazing/sending_mails_using-_CPP/Debug/mailing.cpp.vcxproj.FileListAbsolute.txt"/>
+  </compounddef>
+</doxygen>

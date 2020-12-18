@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygenindex xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="index.xsd" version="1.8.20" xml:lang="en-US">
+  <compound refid="class_attachments" kind="class"><name>Attachments</name>
+    <member refid="class_attachments_1a79c0d17419b4fa45335d71c7cb00621d" kind="variable"><name>no_of_attachments</name></member>
+    <member refid="class_attachments_1a475d53f2c343b9014bc872ed57019653" kind="variable"><name>your_attachments</name></member>
+    <member refid="class_attachments_1ae60faa881bae0fb7435cb8dc4163b8d0" kind="function"><name>getSameAttachToAll</name></member>
+  </compound>
+  <compound refid="class_body" kind="class"><name>Body</name>
+    <member refid="class_body_1ae6721f18592ec7457fa85a15d30590be" kind="variable"><name>your_body</name></member>
+    <member refid="class_body_1a2c3d981feb7aee5223b5f7959fc9ba86" kind="variable"><name>ch</name></member>
+    <member refid="class_body_1a87d0fbcafbc5ef1cba3f08662b748001" kind="variable"><name>choice_body</name></member>
+    <member refid="class_body_1a2f6ac34ee8069d854268eca80cfa9364" kind="function"><name>showbody</name></member>
+  </compound>
+  <compound refid="class_front_page" kind="class"><name>FrontPage</name>
+    <member refid="class_front_page_1a9ba99f96cbdb36f6d0b54161fa44408f" kind="function"><name>showfrontpage</name></member>
+  </compound>
+  <compound refid="class_log_in" kind="class"><name>LogIn</name>
+    <member refid="class_log_in_1a5ed640564204cbb40751a11d8a9ccc56" kind="variable"><name>your_address</name></member>
+    <member refid="class_log_in_1a9cf7361be46c8b59722c8df02135e7a7" kind="variable"><name>your_password</name></member>
+    <member refid="class_log_in_1af9e05f614e38f1346dbc31a09041c5f7" kind="function"><name>showheader</name></member>
+    <member refid="class_log_in_1accca0fc1900c673ca2d7eabe56c088db" kind="function"><name>getaddress</name></member>
+    <member refid="class_log_in_1a0ee7be648bbfef48fe67f5ce004092ee" kind="function"><name>getpass</name></member>
+  </compound>
+  <compound refid="class_mails" kind="class"><name>Mails</name>
+    <member refid="class_mails_1a37351d53ab9aaea5996d4547de6af338" kind="variable"><name>choice_body</name></member>
+    <member refid="class_mails_1a39f2980f98f04a4725849346bc33186c" kind="function"><name>send_to_each_email</name></member>
+    <member refid="class_mails_1acb0dd1ade8db79749c51cde7c96525a9" kind="function"><name>mailSenderWithSameAttachmentToAll</name></member>
+    <member refid="class_mails_1a9598c3e921f7e0a87d54ebda764424a5" kind="function"><name>getbody</name></member>
+  </compound>
+  <compound refid="class_recipients" kind="class"><name>Recipients</name>
+    <member refid="class_recipients_1a8fa1887be590284451773b5a8136496c" kind="variable"><name>no_of_recipients</name></member>
+    <member refid="class_recipients_1a57f1ba0679e6695485cab0fcfdc4a21c" kind="variable"><name>list_choice</name></member>
+    <member refid="class_recipients_1a07da4bda0f577a40144670ec63301c3f" kind="variable"><name>consoleOrfile</name></member>
+    <member refid="class_recipients_1aa351dce7ef9f606297b595d7986c4ab4" kind="variable"><name>recipients</name></member>
+    <member refid="class_recipients_1ad2ea26f0ce31db058be734b0a47614e7" kind="function"><name>getrecipient</name></member>
+    <member refid="class_recipients_1a6435745ce1544e6ae91413d0475bb468" kind="function"><name>showrecipient</name></member>
+    <member refid="class_recipients_1a234aad63fd4db54fd94073b9ae2943ef" kind="function"><name>showrecipientVar</name></member>
+  </compound>
+  <compound refid="class_subject" kind="class"><name>Subject</name>
+    <member refid="class_subject_1ac4763dbb38690d9f6d89863b94449773" kind="variable"><name>your_subject</name></member>
+    <member refid="class_subject_1af0d9ad3667677650ee0656cab4a3884e" kind="variable"><name>subject</name></member>
+    <member refid="class_subject_1a7590d20769e7517a0140ee1c59990212" kind="variable"><name>ch</name></member>
+    <member refid="class_subject_1a576285ecbe2b34413711000860866381" kind="function"><name>getsubject</name></member>
+    <member refid="class_subject_1a0f7248930334e37de5854d2c4d091243" kind="function"><name>showsubject</name></member>
+  </compound>
+  <compound refid="namespace_e_a_send_mail_obj_lib" kind="namespace"><name>EASendMailObjLib</name>
+  </compound>
+  <compound refid="namespacestd" kind="namespace"><name>std</name>
+  </compound>
+  <compound refid="mailing_8cpp_8vcxproj_8_file_list_absolute_8txt" kind="file"><name>mailing.cpp.vcxproj.FileListAbsolute.txt</name>
+  </compound>
+  <compound refid="mailing_8vcxproj_8_file_list_absolute_8txt" kind="file"><name>mailing.vcxproj.FileListAbsolute.txt</name>
+  </compound>
+  <compound refid="mailing_8cpp" kind="file"><name>mailing.cpp</name>
+    <member refid="mailing_8cpp_1a635629c4c0ef52a78fff1ce61d19e50b" kind="define"><name>BODY_LOCATION</name></member>
+    <member refid="mailing_8cpp_1a06ee80fbcb33fc8b7aa9c90bd2f1f371" kind="define"><name>size_recipients</name></member>
+    <member refid="mailing_8cpp_1a179eb922dd28b19f30e5f6d428ccadfe" kind="variable"><name>ConnectNormal</name></member>
+    <member refid="mailing_8cpp_1aadac01e9cd3f9038154d670af68a59f7" kind="variable"><name>ConnectSSLAuto</name></member>
+    <member refid="mailing_8cpp_1a18a998e050d792bf5165e4dc05b08bd4" kind="variable"><name>ConnectSTARTTLS</name></member>
+    <member refid="mailing_8cpp_1ad89dff68c18f256995d8b52b2846ce4f" kind="variable"><name>ConnectDirectSSL</name></member>
+    <member refid="mailing_8cpp_1a5c1e61b4a21334a961d744194990cab7" kind="variable"><name>ConnectTryTLS</name></member>
+    <member refid="mailing_8cpp_1ae66f6b31b5ad750f1fe042a706a4e3d4" kind="function"><name>main</name></member>
+  </compound>
+  <compound refid="_recipient_list_8txt" kind="file"><name>RecipientList.txt</name>
+  </compound>
+  <compound refid="dir_cfba44cc6a99b70856b0a728152d6db2" kind="dir"><name>G:/1. Mass Mailing System/1. code working/Mass Mailing using CPP_Amazing/sending_mails_using-_CPP/Debug</name>
+  </compound>
+  <compound refid="dir_97b812c7cd5f966c99b3d2c0be1e3b47" kind="dir"><name>G:/1. Mass Mailing System/1. code working/Mass Mailing using CPP_Amazing/sending_mails_using-_CPP</name>
+  </compound>
+</doxygenindex>

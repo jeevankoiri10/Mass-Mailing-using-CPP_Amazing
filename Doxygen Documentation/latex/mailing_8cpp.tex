@@ -1,0 +1,113 @@
+\doxysection{G\+:/1. Mass Mailing System/1. code working/\+Mass Mailing using C\+P\+P\+\_\+\+Amazing/sending\+\_\+mails\+\_\+using-\/\+\_\+\+C\+P\+P/mailing.cpp File Reference}
+\label{mailing_8cpp}\index{G:/1. Mass Mailing System/1. code working/Mass Mailing using CPP\_Amazing/sending\_mails\_using-\/\_CPP/mailing.cpp@{G:/1. Mass Mailing System/1. code working/Mass Mailing using CPP\_Amazing/sending\_mails\_using-\/\_CPP/mailing.cpp}}
+{\ttfamily \#include \char`\"{}C\+:\textbackslash{}vcpkg\textbackslash{}downloads\textbackslash{}tools\textbackslash{}perl\textbackslash{}5.\+30.\+0.\+1\textbackslash{}c\textbackslash{}lib\textbackslash{}gcc\textbackslash{}i686-\/w64-\/mingw32\textbackslash{}8.\+3.\+0\textbackslash{}include\textbackslash{}stdfix.\+h\char`\"{}}\newline
+{\ttfamily \#include $<$tchar.\+h$>$}\newline
+{\ttfamily \#include $<$iostream$>$}\newline
+{\ttfamily \#include $<$conio.\+h$>$}\newline
+{\ttfamily \#include $<$cstdlib$>$}\newline
+{\ttfamily \#include $<$fstream$>$}\newline
+{\ttfamily \#include $<$cstring$>$}\newline
+{\ttfamily \#include \char`\"{}E\+A\+Send\+Mail\+Obj.\+tlh\char`\"{}}\newline
+{\ttfamily \#include $<$time.\+h$>$}\newline
+{\ttfamily \#include $<$string$>$}\newline
+Include dependency graph for mailing.\+cpp\+:
+% FIG 0
+\doxysubsection*{Classes}
+\begin{DoxyCompactItemize}
+\item 
+class \textbf{ Front\+Page}
+\item 
+class \textbf{ Log\+In}
+\item 
+class \textbf{ Recipients}
+\item 
+class \textbf{ Subject}
+\item 
+class \textbf{ Body}
+\item 
+class \textbf{ Attachments}
+\item 
+class \textbf{ Mails}
+\end{DoxyCompactItemize}
+\doxysubsection*{Macros}
+\begin{DoxyCompactItemize}
+\item 
+\#define \textbf{ B\+O\+D\+Y\+\_\+\+L\+O\+C\+A\+T\+I\+ON}~\char`\"{}G\+:\textbackslash{}\textbackslash{}1. Mass Mailing System\textbackslash{}\textbackslash{}1. code working\textbackslash{}\textbackslash{}sending\+\_\+mails\+\_\+using-\/\+\_\+\+C\+P\+P\textbackslash{}\textbackslash{}body.\+html\char`\"{}
+\item 
+\#define \textbf{ size\+\_\+recipients}~1000
+\end{DoxyCompactItemize}
+\doxysubsection*{Functions}
+\begin{DoxyCompactItemize}
+\item 
+int \textbf{ main} ()
+\end{DoxyCompactItemize}
+\doxysubsection*{Variables}
+\begin{DoxyCompactItemize}
+\item 
+const int \textbf{ Connect\+Normal} = 0
+\item 
+const int \textbf{ Connect\+S\+S\+L\+Auto} = 1
+\item 
+const int \textbf{ Connect\+S\+T\+A\+R\+T\+T\+LS} = 2
+\item 
+const int \textbf{ Connect\+Direct\+S\+SL} = 3
+\item 
+const int \textbf{ Connect\+Try\+T\+LS} = 4
+\end{DoxyCompactItemize}
+
+
+\doxysubsection{Macro Definition Documentation}
+\mbox{\label{mailing_8cpp_a635629c4c0ef52a78fff1ce61d19e50b}} 
+\index{mailing.cpp@{mailing.cpp}!BODY\_LOCATION@{BODY\_LOCATION}}
+\index{BODY\_LOCATION@{BODY\_LOCATION}!mailing.cpp@{mailing.cpp}}
+\doxysubsubsection{BODY\_LOCATION}
+{\footnotesize\ttfamily \#define B\+O\+D\+Y\+\_\+\+L\+O\+C\+A\+T\+I\+ON~\char`\"{}G\+:\textbackslash{}\textbackslash{}1. Mass Mailing System\textbackslash{}\textbackslash{}1. code working\textbackslash{}\textbackslash{}sending\+\_\+mails\+\_\+using-\/\+\_\+\+C\+P\+P\textbackslash{}\textbackslash{}body.\+html\char`\"{}}
+
+\mbox{\label{mailing_8cpp_a06ee80fbcb33fc8b7aa9c90bd2f1f371}} 
+\index{mailing.cpp@{mailing.cpp}!size\_recipients@{size\_recipients}}
+\index{size\_recipients@{size\_recipients}!mailing.cpp@{mailing.cpp}}
+\doxysubsubsection{size\_recipients}
+{\footnotesize\ttfamily \#define size\+\_\+recipients~1000}
+
+
+
+\doxysubsection{Function Documentation}
+\mbox{\label{mailing_8cpp_ae66f6b31b5ad750f1fe042a706a4e3d4}} 
+\index{mailing.cpp@{mailing.cpp}!main@{main}}
+\index{main@{main}!mailing.cpp@{mailing.cpp}}
+\doxysubsubsection{main()}
+{\footnotesize\ttfamily int main (\begin{DoxyParamCaption}{ }\end{DoxyParamCaption})}
+
+
+
+\doxysubsection{Variable Documentation}
+\mbox{\label{mailing_8cpp_ad89dff68c18f256995d8b52b2846ce4f}} 
+\index{mailing.cpp@{mailing.cpp}!ConnectDirectSSL@{ConnectDirectSSL}}
+\index{ConnectDirectSSL@{ConnectDirectSSL}!mailing.cpp@{mailing.cpp}}
+\doxysubsubsection{ConnectDirectSSL}
+{\footnotesize\ttfamily const int Connect\+Direct\+S\+SL = 3}
+
+\mbox{\label{mailing_8cpp_a179eb922dd28b19f30e5f6d428ccadfe}} 
+\index{mailing.cpp@{mailing.cpp}!ConnectNormal@{ConnectNormal}}
+\index{ConnectNormal@{ConnectNormal}!mailing.cpp@{mailing.cpp}}
+\doxysubsubsection{ConnectNormal}
+{\footnotesize\ttfamily const int Connect\+Normal = 0}
+
+\mbox{\label{mailing_8cpp_aadac01e9cd3f9038154d670af68a59f7}} 
+\index{mailing.cpp@{mailing.cpp}!ConnectSSLAuto@{ConnectSSLAuto}}
+\index{ConnectSSLAuto@{ConnectSSLAuto}!mailing.cpp@{mailing.cpp}}
+\doxysubsubsection{ConnectSSLAuto}
+{\footnotesize\ttfamily const int Connect\+S\+S\+L\+Auto = 1}
+
+\mbox{\label{mailing_8cpp_a18a998e050d792bf5165e4dc05b08bd4}} 
+\index{mailing.cpp@{mailing.cpp}!ConnectSTARTTLS@{ConnectSTARTTLS}}
+\index{ConnectSTARTTLS@{ConnectSTARTTLS}!mailing.cpp@{mailing.cpp}}
+\doxysubsubsection{ConnectSTARTTLS}
+{\footnotesize\ttfamily const int Connect\+S\+T\+A\+R\+T\+T\+LS = 2}
+
+\mbox{\label{mailing_8cpp_a5c1e61b4a21334a961d744194990cab7}} 
+\index{mailing.cpp@{mailing.cpp}!ConnectTryTLS@{ConnectTryTLS}}
+\index{ConnectTryTLS@{ConnectTryTLS}!mailing.cpp@{mailing.cpp}}
+\doxysubsubsection{ConnectTryTLS}
+{\footnotesize\ttfamily const int Connect\+Try\+T\+LS = 4}
+

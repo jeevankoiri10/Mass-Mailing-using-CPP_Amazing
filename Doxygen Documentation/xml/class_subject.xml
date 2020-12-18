@@ -1,0 +1,168 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.20" xml:lang="en-US">
+  <compounddef id="class_subject" kind="class" language="C++" prot="public">
+    <compoundname>Subject</compoundname>
+    <basecompoundref refid="class_recipients" prot="public" virt="non-virtual">Recipients</basecompoundref>
+    <derivedcompoundref refid="class_body" prot="public" virt="non-virtual">Body</derivedcompoundref>
+      <sectiondef kind="protected-attrib">
+      <memberdef kind="variable" id="class_subject_1ac4763dbb38690d9f6d89863b94449773" prot="protected" static="no" mutable="no">
+        <type>char</type>
+        <definition>char Subject::your_subject[100]</definition>
+        <argsstring>[100]</argsstring>
+        <name>your_subject</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="G:/1. Mass Mailing System/1. code working/Mass Mailing using CPP_Amazing/sending_mails_using-_CPP/mailing.cpp" line="336" column="6" bodyfile="G:/1. Mass Mailing System/1. code working/Mass Mailing using CPP_Amazing/sending_mails_using-_CPP/mailing.cpp" bodystart="336" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_subject_1af0d9ad3667677650ee0656cab4a3884e" prot="protected" static="no" mutable="no">
+        <type>char</type>
+        <definition>char Subject::subject[100]</definition>
+        <argsstring>[100]</argsstring>
+        <name>subject</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="G:/1. Mass Mailing System/1. code working/Mass Mailing using CPP_Amazing/sending_mails_using-_CPP/mailing.cpp" line="337" column="6" bodyfile="G:/1. Mass Mailing System/1. code working/Mass Mailing using CPP_Amazing/sending_mails_using-_CPP/mailing.cpp" bodystart="337" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_subject_1a7590d20769e7517a0140ee1c59990212" prot="protected" static="no" mutable="no">
+        <type>char</type>
+        <definition>char Subject::ch</definition>
+        <argsstring></argsstring>
+        <name>ch</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="G:/1. Mass Mailing System/1. code working/Mass Mailing using CPP_Amazing/sending_mails_using-_CPP/mailing.cpp" line="338" column="6" bodyfile="G:/1. Mass Mailing System/1. code working/Mass Mailing using CPP_Amazing/sending_mails_using-_CPP/mailing.cpp" bodystart="338" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="class_subject_1a576285ecbe2b34413711000860866381" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void Subject::getsubject</definition>
+        <argsstring>()</argsstring>
+        <name>getsubject</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="G:/1. Mass Mailing System/1. code working/Mass Mailing using CPP_Amazing/sending_mails_using-_CPP/mailing.cpp" line="340" column="6" bodyfile="G:/1. Mass Mailing System/1. code working/Mass Mailing using CPP_Amazing/sending_mails_using-_CPP/mailing.cpp" bodystart="340" bodyend="366"/>
+      </memberdef>
+      <memberdef kind="function" id="class_subject_1a0f7248930334e37de5854d2c4d091243" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void Subject::showsubject</definition>
+        <argsstring>()</argsstring>
+        <name>showsubject</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="G:/1. Mass Mailing System/1. code working/Mass Mailing using CPP_Amazing/sending_mails_using-_CPP/mailing.cpp" line="367" column="6" bodyfile="G:/1. Mass Mailing System/1. code working/Mass Mailing using CPP_Amazing/sending_mails_using-_CPP/mailing.cpp" bodystart="367" bodyend="370"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <inheritancegraph>
+      <node id="6">
+        <label>Attachments</label>
+        <link refid="class_attachments"/>
+        <childnode refid="5" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="3">
+        <label>LogIn</label>
+        <link refid="class_log_in"/>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="7">
+        <label>Mails</label>
+        <link refid="class_mails"/>
+        <childnode refid="6" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="2">
+        <label>Recipients</label>
+        <link refid="class_recipients"/>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="1">
+        <label>Subject</label>
+        <link refid="class_subject"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="5">
+        <label>Body</label>
+        <link refid="class_body"/>
+        <childnode refid="1" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="4">
+        <label>FrontPage</label>
+        <link refid="class_front_page"/>
+      </node>
+    </inheritancegraph>
+    <collaborationgraph>
+      <node id="3">
+        <label>LogIn</label>
+        <link refid="class_log_in"/>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="2">
+        <label>Recipients</label>
+        <link refid="class_recipients"/>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="1">
+        <label>Subject</label>
+        <link refid="class_subject"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="4">
+        <label>FrontPage</label>
+        <link refid="class_front_page"/>
+      </node>
+    </collaborationgraph>
+    <location file="G:/1. Mass Mailing System/1. code working/Mass Mailing using CPP_Amazing/sending_mails_using-_CPP/mailing.cpp" line="333" column="1" bodyfile="G:/1. Mass Mailing System/1. code working/Mass Mailing using CPP_Amazing/sending_mails_using-_CPP/mailing.cpp" bodystart="334" bodyend="371"/>
+    <listofallmembers>
+      <member refid="class_subject_1a7590d20769e7517a0140ee1c59990212" prot="protected" virt="non-virtual"><scope>Subject</scope><name>ch</name></member>
+      <member refid="class_recipients_1a07da4bda0f577a40144670ec63301c3f" prot="protected" virt="non-virtual"><scope>Subject</scope><name>consoleOrfile</name></member>
+      <member refid="class_log_in_1accca0fc1900c673ca2d7eabe56c088db" prot="public" virt="non-virtual"><scope>Subject</scope><name>getaddress</name></member>
+      <member refid="class_log_in_1a0ee7be648bbfef48fe67f5ce004092ee" prot="public" virt="non-virtual"><scope>Subject</scope><name>getpass</name></member>
+      <member refid="class_recipients_1ad2ea26f0ce31db058be734b0a47614e7" prot="public" virt="non-virtual"><scope>Subject</scope><name>getrecipient</name></member>
+      <member refid="class_subject_1a576285ecbe2b34413711000860866381" prot="public" virt="non-virtual"><scope>Subject</scope><name>getsubject</name></member>
+      <member refid="class_recipients_1a57f1ba0679e6695485cab0fcfdc4a21c" prot="protected" virt="non-virtual"><scope>Subject</scope><name>list_choice</name></member>
+      <member refid="class_recipients_1a8fa1887be590284451773b5a8136496c" prot="protected" virt="non-virtual"><scope>Subject</scope><name>no_of_recipients</name></member>
+      <member refid="class_recipients_1aa351dce7ef9f606297b595d7986c4ab4" prot="protected" virt="non-virtual"><scope>Subject</scope><name>recipients</name></member>
+      <member refid="class_front_page_1a9ba99f96cbdb36f6d0b54161fa44408f" prot="public" virt="non-virtual"><scope>Subject</scope><name>showfrontpage</name></member>
+      <member refid="class_log_in_1af9e05f614e38f1346dbc31a09041c5f7" prot="public" virt="non-virtual"><scope>Subject</scope><name>showheader</name></member>
+      <member refid="class_recipients_1a6435745ce1544e6ae91413d0475bb468" prot="public" virt="non-virtual"><scope>Subject</scope><name>showrecipient</name></member>
+      <member refid="class_recipients_1a234aad63fd4db54fd94073b9ae2943ef" prot="public" virt="non-virtual"><scope>Subject</scope><name>showrecipientVar</name></member>
+      <member refid="class_subject_1a0f7248930334e37de5854d2c4d091243" prot="public" virt="non-virtual"><scope>Subject</scope><name>showsubject</name></member>
+      <member refid="class_subject_1af0d9ad3667677650ee0656cab4a3884e" prot="protected" virt="non-virtual"><scope>Subject</scope><name>subject</name></member>
+      <member refid="class_log_in_1a5ed640564204cbb40751a11d8a9ccc56" prot="protected" virt="non-virtual"><scope>Subject</scope><name>your_address</name></member>
+      <member refid="class_log_in_1a9cf7361be46c8b59722c8df02135e7a7" prot="protected" virt="non-virtual"><scope>Subject</scope><name>your_password</name></member>
+      <member refid="class_subject_1ac4763dbb38690d9f6d89863b94449773" prot="protected" virt="non-virtual"><scope>Subject</scope><name>your_subject</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

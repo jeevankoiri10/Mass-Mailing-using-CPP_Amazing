@@ -1,0 +1,51 @@
+\doxysection{Attachments Class Reference}
+\label{class_attachments}\index{Attachments@{Attachments}}
+
+
+Inheritance diagram for Attachments\+:
+% FIG 0
+
+
+Collaboration diagram for Attachments\+:
+% FIG 1
+\doxysubsection*{Public Member Functions}
+\begin{DoxyCompactItemize}
+\item 
+void \textbf{ get\+Same\+Attach\+To\+All} ()
+\end{DoxyCompactItemize}
+\doxysubsection*{Protected Attributes}
+\begin{DoxyCompactItemize}
+\item 
+int \textbf{ no\+\_\+of\+\_\+attachments}
+\item 
+char \textbf{ your\+\_\+attachments} [100][50]
+\end{DoxyCompactItemize}
+
+
+\doxysubsection{Member Function Documentation}
+\mbox{\label{class_attachments_ae60faa881bae0fb7435cb8dc4163b8d0}} 
+\index{Attachments@{Attachments}!getSameAttachToAll@{getSameAttachToAll}}
+\index{getSameAttachToAll@{getSameAttachToAll}!Attachments@{Attachments}}
+\doxysubsubsection{getSameAttachToAll()}
+{\footnotesize\ttfamily void Attachments\+::get\+Same\+Attach\+To\+All (\begin{DoxyParamCaption}{ }\end{DoxyParamCaption})\hspace{0.3cm}{\ttfamily [inline]}}
+
+
+
+\doxysubsection{Member Data Documentation}
+\mbox{\label{class_attachments_a79c0d17419b4fa45335d71c7cb00621d}} 
+\index{Attachments@{Attachments}!no\_of\_attachments@{no\_of\_attachments}}
+\index{no\_of\_attachments@{no\_of\_attachments}!Attachments@{Attachments}}
+\doxysubsubsection{no\_of\_attachments}
+{\footnotesize\ttfamily int Attachments\+::no\+\_\+of\+\_\+attachments\hspace{0.3cm}{\ttfamily [protected]}}
+
+\mbox{\label{class_attachments_a475d53f2c343b9014bc872ed57019653}} 
+\index{Attachments@{Attachments}!your\_attachments@{your\_attachments}}
+\index{your\_attachments@{your\_attachments}!Attachments@{Attachments}}
+\doxysubsubsection{your\_attachments}
+{\footnotesize\ttfamily char Attachments\+::your\+\_\+attachments[100][50]\hspace{0.3cm}{\ttfamily [protected]}}
+
+
+
+The documentation for this class was generated from the following file\+:\begin{DoxyCompactItemize}
+\item 
+G\+:/1. Mass Mailing System/1. code working/\+Mass Mailing using C\+P\+P\+\_\+\+Amazing/sending\+\_\+mails\+\_\+using-\/\+\_\+\+C\+P\+P/\textbf{ mailing.\+cpp}\end{DoxyCompactItemize}

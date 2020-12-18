@@ -1,0 +1,46 @@
+.TH "Mails" 3 "Fri Dec 18 2020" "Mass Mailing Using C++" \" -*- nroff -*-
+.ad l
+.nh
+.SH NAME
+Mails
+.SH SYNOPSIS
+.br
+.PP
+.PP
+Inherits \fBAttachments\fP\&.
+.SS "Public Member Functions"
+
+.in +1c
+.ti -1c
+.RI "void \fBsend_to_each_email\fP ()"
+.br
+.ti -1c
+.RI "void \fBmailSenderWithSameAttachmentToAll\fP (char recipient[50], char \fByour_address\fP[100], char \fByour_password\fP[50], char \fByour_body\fP[100000], char \fByour_attachments\fP[100][50], int \fBno_of_attachments\fP)"
+.br
+.ti -1c
+.RI "void \fBgetbody\fP ()"
+.br
+.in -1c
+.SS "Protected Attributes"
+
+.in +1c
+.ti -1c
+.RI "int \fBchoice_body\fP"
+.br
+.in -1c
+.SH "Member Function Documentation"
+.PP 
+.SS "void Mails::getbody ()\fC [inline]\fP"
+
+.SS "void Mails::mailSenderWithSameAttachmentToAll (char recipient[50], char your_address[100], char your_password[50], char your_body[100000], char your_attachments[100][50], int no_of_attachments)\fC [inline]\fP"
+
+.SS "void Mails::send_to_each_email ()\fC [inline]\fP"
+
+.SH "Member Data Documentation"
+.PP 
+.SS "int Mails::choice_body\fC [protected]\fP"
+
+
+.SH "Author"
+.PP 
+Generated automatically by Doxygen for Mass Mailing Using C++ from the source code\&.

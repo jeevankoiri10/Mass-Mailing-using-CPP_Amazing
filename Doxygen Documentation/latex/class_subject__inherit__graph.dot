@@ -1,0 +1,19 @@
+digraph "Subject"
+{
+ // LATEX_PDF_SIZE
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  Node1 [label="Subject",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black",tooltip=" "];
+  Node2 -> Node1 [dir="back",color="midnightblue",fontsize="10",style="solid"];
+  Node2 [label="Recipients",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$class_recipients.html",tooltip=" "];
+  Node3 -> Node2 [dir="back",color="midnightblue",fontsize="10",style="solid"];
+  Node3 [label="LogIn",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$class_log_in.html",tooltip=" "];
+  Node4 -> Node3 [dir="back",color="midnightblue",fontsize="10",style="solid"];
+  Node4 [label="FrontPage",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$class_front_page.html",tooltip=" "];
+  Node1 -> Node5 [dir="back",color="midnightblue",fontsize="10",style="solid"];
+  Node5 [label="Body",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$class_body.html",tooltip=" "];
+  Node5 -> Node6 [dir="back",color="midnightblue",fontsize="10",style="solid"];
+  Node6 [label="Attachments",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$class_attachments.html",tooltip=" "];
+  Node6 -> Node7 [dir="back",color="midnightblue",fontsize="10",style="solid"];
+  Node7 [label="Mails",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$class_mails.html",tooltip=" "];
+}

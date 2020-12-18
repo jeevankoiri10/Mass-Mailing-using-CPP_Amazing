@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.20" xml:lang="en-US">
+  <compounddef id="dir_97b812c7cd5f966c99b3d2c0be1e3b47" kind="dir">
+    <compoundname>G:/1. Mass Mailing System/1. code working/Mass Mailing using CPP_Amazing/sending_mails_using-_CPP</compoundname>
+    <innerdir refid="dir_cfba44cc6a99b70856b0a728152d6db2">G:/1. Mass Mailing System/1. code working/Mass Mailing using CPP_Amazing/sending_mails_using-_CPP/Debug</innerdir>
+    <innerfile refid="mailing_8cpp">mailing.cpp</innerfile>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="G:/1. Mass Mailing System/1. code working/Mass Mailing using CPP_Amazing/sending_mails_using-_CPP/"/>
+  </compounddef>
+</doxygen>
